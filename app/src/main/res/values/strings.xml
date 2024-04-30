@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App Filmes</string>
+    <string name="app_films">App films</string>
+    <string name="netfaliu">NetFaliu</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="enter">Entrar</string>
+    <string name="need_help">Precisa de ajuda? </string>
+    <string name="new_here">Novo por aqui? Inscreva-se agora.</string>
+    <string name="help_registration">Ajuda</string>
+    <string name="tudo_pronto_para_n_para_assistir">Tudo pronto para \n para assistir?</string>
+    <string name="informe_seu_email_para_criar_ou_acessar_sua_conta">Informe seu email para criar ou acessar sua conta.</string>
+    <string name="next">CONTINUAR</string>
+</resources>
